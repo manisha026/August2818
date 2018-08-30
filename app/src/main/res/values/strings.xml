@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">August2818</string>
+    <string name="demo_text">Welcome to android bootcamp. </string>
+    <string name="logo_text">Raile is the product<u> used for </u>electrician.</string>
+    <string name="et_user">User Name</string>
+    <string name="et_email">Email Id</string>
+    <string name="et_password">Password</string>
+    <string name="et_confirm_password">Confirm Password</string>
+    <string name="btn_register">Register Now</string>
+    <string name="tv_already">Already have an account?</string>
+    <string name="tv_login"> Login</string>
+    <string name="btn_login">Login</string>
+</resources>
